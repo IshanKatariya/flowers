@@ -1,0 +1,43 @@
+*{
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/756881/textured_paper_%402X.png);
+  background-blend-mode: multiply;
+  background-color: #e2d8d0;
+  font-family: "Geist Mono", serif;
+  background-repeat: repeat;
+  
+
+}
+body{
+  min-height: 100%;
+}
+h1{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 40vh;
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+
+}
+#paragraph{
+  margin-left: auto;
+  margin-right: auto;
+  
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+button{
+  background-color: #e2d8d0;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left: auto; 
+  margin-right: auto;
+  display: block;
+}
